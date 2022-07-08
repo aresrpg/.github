@@ -33,7 +33,7 @@ Use a vanilla minecraft client on `1.16` and join the address
 ```
 
 # Metaverse
-We leverage the Effinity blockchain to access NFTs in the game world.
+We leverage the Solana blockchain to access NFTs in the game world.
 
 # Contact
 
