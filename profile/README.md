@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://i.imgur.com/GfQrZQo.png" />
+  <img src="https://i.imgur.com/7W5z3s3.jpg" />
 </p>
 <p align=center>
   <img src="https://img.shields.io/badge/Made%20with-Javascript-%23f7df1e?style=for-the-badge&color=F1C40F" alt="fully in javascript"/>
