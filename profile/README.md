@@ -32,9 +32,6 @@ Use a vanilla minecraft client on `1.16` and join the address
 ...
 ```
 
-# Metaverse
-We leverage the Solana blockchain to access NFTs in the game world.
-
 # Contact
 
 If you have any questions/feedback and would like to directly connect to the team, join our [discord](https://discord.gg/gaqrFT5)
