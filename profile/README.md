@@ -3,7 +3,6 @@
 </p>
 <p align=center>
   <img src="https://img.shields.io/badge/Made%20with-Javascript-%23f7df1e?style=for-the-badge&color=F1C40F" alt="fully in javascript"/>
-  <img src="https://img.shields.io/badge/Metaverse-ready-pink?style=for-the-badge&color=9B59B6" alt="nft bro"/>
   <img src="https://img.shields.io/github/stars/AresRPG?style=for-the-badge&color=3498DB"/>
   <a href="https://choosealicense.com/licenses/mit/">
   <a href="https://discord.gg/gaqrFT5">
