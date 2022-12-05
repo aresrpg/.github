@@ -8,6 +8,9 @@
   <a href="https://aresrpg.world">
     <img src="https://img.shields.io/badge/new-website-9B59B6?style=for-the-badge" alt="Chat"/>
   </a>
+  <a href="https://twitter.com/aresrpg">
+    <img src="https://img.shields.io/badge/follow-us-blue.svg?logo=twitter&style=for-the-badge"/>
+  </a>
   <a href="https://discord.gg/aresrpg">
     <img src="https://img.shields.io/discord/265104803531587584.svg?logo=discord&style=for-the-badge&color=2ECC71" alt="Chat"/>
   </a>
