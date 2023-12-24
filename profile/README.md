@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/discord/265104803531587584.svg?logo=discord&style=for-the-badge&color=2ECC71" alt="Chat"/>
   </a>
 </p>
-<h3 align=center>AresRPG is an open-source vanilla MMORPG Minecraft Server for minecraft 1.16</h3>
+<h3 align=center>AresRPG is browser based MMORPG (previously a Minecraft Server)</h3>
 <br>
 
 # The experience
@@ -28,15 +28,12 @@ the most powerful adventurer!
 
 # Contribute
 
-Head to the [AresRPG repository](https://github.com/aresrpg/aresrpg) !
+Head to the [AresRPG Client repository](https://github.com/aresrpg/aresrpg-client) !
 
-# Start playing
+# Try the game
 
-Use a vanilla minecraft client on `1.16` and join the address
-
-```sh
-# well.. it's not ready yet 😁
-...
+- app: https://app.aresrpg.world
+- game: https://play.aresrpg.world
 ```
 
 # Contact
