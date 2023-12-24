@@ -34,7 +34,6 @@ Head to the [AresRPG Client repository](https://github.com/aresrpg/aresrpg-clien
 
 - app: https://app.aresrpg.world
 - game: https://play.aresrpg.world
-```
 
 # Contact
 
