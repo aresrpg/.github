@@ -28,12 +28,19 @@ the most powerful adventurer!
 
 # Contribute
 
-Head to the [AresRPG Client repository](https://github.com/aresrpg/aresrpg-client) !
+- [AresRPG dApp repository](https://github.com/aresrpg/aresrpg-dapp) !
+  - `testnet` branch for the testnet version
+  - `master` branch for the mainnet version
+- [Sui move modules](https://github.com/aresrpg/aresrpg-move)
+- [AresRPG SDK](https://github.com/aresrpg/aresrpg-sdk)
+- [Procedural terrain](https://github.com/aresrpg/aresrpg-world)
+- [Voxel rendering engine](https://github.com/aresrpg/aresrpg-engine)
+- [Server Protocol](https://github.com/aresrpg/aresrpg-protocol)
+- [Website](https://github.com/aresrpg/website)
 
 # Try the game
 
-- app: https://app.aresrpg.world
-- game: https://play.aresrpg.world
+Head over to https://app.aresrpg.world, or https://testnet.aresrpg.world
 
 # Contact
 
