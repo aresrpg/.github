@@ -29,8 +29,6 @@ the most powerful adventurer!
 # Contribute
 
 - [AresRPG dApp repository](https://github.com/aresrpg/aresrpg-dapp) !
-  - `testnet` branch for the testnet version
-  - `master` branch for the mainnet version
 - [Sui move modules](https://github.com/aresrpg/aresrpg-move)
 - [AresRPG SDK](https://github.com/aresrpg/aresrpg-sdk)
 - [Procedural terrain](https://github.com/aresrpg/aresrpg-world)
