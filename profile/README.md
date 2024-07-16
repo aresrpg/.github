@@ -38,7 +38,7 @@ the most powerful adventurer!
 
 # Try the game
 
-Head over to https://app.aresrpg.world, or https://testnet.aresrpg.world
+Head over to https://app.aresrpg.world, or the beta test at https://testnet.aresrpg.world
 
 # Contact
 
