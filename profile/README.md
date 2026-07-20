@@ -1,11 +1,18 @@
 <p align=center>
-  <img src="banner.png" alt="AresRPG" />
+  <img src="banner_v2.png" alt="AresRPG" />
 </p>
 <p align=center>
   <img src="https://img.shields.io/github/stars/AresRPG?style=for-the-badge&color=3498DB" alt="stars"/>
   <a href="https://discord.gg/aresrpg">
     <img src="https://img.shields.io/discord/265104803531587584.svg?logo=discord&style=for-the-badge&color=2ECC71" alt="Discord"/>
   </a>
+  <a href="https://twitter.com/aresrpg">
+    <img src="https://img.shields.io/badge/follow-@aresrpg-1DA1F2?logo=x&style=for-the-badge" alt="X"/>
+  </a>
+  <a href="https://testnet.aresrpg.world">
+    <img src="https://img.shields.io/badge/play-testnet-c8963c?style=for-the-badge" alt="Play testnet"/>
+  </a>
+  <img src="https://img.shields.io/badge/license-source--available-8b6914?style=for-the-badge" alt="License"/>
 </p>
 <h3 align=center>A source-available web MMORPG built on Sui and Three.js — developed in the open</h3>
 <br>
