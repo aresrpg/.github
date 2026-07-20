@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="banner_v2.png" alt="AresRPG" />
+  <img src="banner_v3.png" alt="AresRPG" />
 </p>
 <p align=center>
   <img src="https://img.shields.io/github/stars/AresRPG?style=for-the-badge&color=3498DB" alt="stars"/>
