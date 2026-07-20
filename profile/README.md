@@ -13,10 +13,10 @@
 # The experience
 
 Create your character and step into the lands of Ares — a voxel world rendered in your
-browser, where the blockchain itself is the game server. Fight creatures in deterministic
-turn-based combat, complete quests, level up, refine your equipment, raid dungeons with
-your team, and own every item you earn: your character, your gear, your loot — all of it
-lives on-chain, in your wallet.
+browser, where the blockchain itself is the game server. Hunt creatures in turn-based
+tactical combat, level up, gather resources, delve dungeons, and own everything you earn:
+your character and every piece of gear — each minted with its own rolled stats — live
+on-chain, yours.
 
 # Try the game
 
