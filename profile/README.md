@@ -9,8 +9,8 @@
   <a href="https://twitter.com/aresrpg">
     <img src="https://img.shields.io/badge/follow-@aresrpg-1DA1F2?logo=x&style=for-the-badge" alt="X"/>
   </a>
-  <a href="https://testnet.aresrpg.world">
-    <img src="https://img.shields.io/badge/play-testnet-c8963c?style=for-the-badge" alt="Play testnet"/>
+  <a href="https://aresrpg.world">
+    <img src="https://img.shields.io/badge/play-testnet-c8963c?style=for-the-badge" alt="Play"/>
   </a>
   <img src="https://img.shields.io/badge/license-source--available-8b6914?style=for-the-badge" alt="License"/>
 </p>
@@ -27,7 +27,7 @@ on-chain, yours.
 
 # Try the game
 
-The testnet is live: **https://testnet.aresrpg.world** — a Google account is all you need
+The testnet is live: **https://aresrpg.world** — a Google account is all you need
 (zkLogin creates your wallet; gameplay is sponsored, no coins required to play).
 
 # Contribute
