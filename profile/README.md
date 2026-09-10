@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/follow-@aresrpg-1DA1F2?logo=x&style=for-the-badge" alt="X"/>
   </a>
   <a href="https://aresrpg.world">
-    <img src="https://img.shields.io/badge/play-testnet-c8963c?style=for-the-badge" alt="Play"/>
+    <img src="https://img.shields.io/badge/play-mainnet-c8963c?style=for-the-badge" alt="Play"/>
   </a>
   <img src="https://img.shields.io/badge/license-source--available-8b6914?style=for-the-badge" alt="License"/>
 </p>
